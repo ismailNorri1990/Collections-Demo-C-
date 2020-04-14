@@ -10,6 +10,7 @@ namespace CountryCollection
             string filePath = @"C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\InputFile\Pop by Largest Final.csv";
             CsvReader reader = new CsvReader(filePath);
             List<Country> countries = reader.ReadAllCountries();
+            reader.RemoveCountries(countries);
             
             Country Lilliput = new Country("Lilliput","LiL","Somewhere",2_000_000);
             
