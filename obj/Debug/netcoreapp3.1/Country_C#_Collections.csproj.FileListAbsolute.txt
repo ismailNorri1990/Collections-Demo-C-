@@ -1,0 +1,11 @@
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\obj\Debug\netcoreapp3.1\Country_C#_Collections.csprojAssemblyReference.cache
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\obj\Debug\netcoreapp3.1\Country_C#_Collections.AssemblyInfoInputs.cache
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\obj\Debug\netcoreapp3.1\Country_C#_Collections.AssemblyInfo.cs
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.exe
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.deps.json
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.runtimeconfig.json
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.runtimeconfig.dev.json
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.dll
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\bin\Debug\netcoreapp3.1\Country_C#_Collections.pdb
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\obj\Debug\netcoreapp3.1\Country_C#_Collections.dll
+C:\Users\NGE Impact\Beginning_C#_Collections\src\Country_C#_Collections\obj\Debug\netcoreapp3.1\Country_C#_Collections.pdb
