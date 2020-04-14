@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Security.Cryptography;
 using System;
 
 namespace CountryCollection
@@ -23,9 +22,16 @@ namespace CountryCollection
             //Remove item from a list
             countries.RemoveAt(lilliputIndex);
             
-            foreach ( Country country in countries)
-            {
-                Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");                
+           for (int i = countries.Count-1 ; i > 0; i--)
+           {
+               var index = countries.Count-1-i;
+               if(index>0 && index % 10 == 0){
+                   System.Console.WriteLine("Tapez entrer pour continuer");
+                   if(Console.ReadLine() != ""){
+                   break;
+                   };
+               }
+                    Console.WriteLine($"{index+1}:{PopulationFormatter.FormatPopulation(countries[i].Population).PadLeft(15)}: {countries[i].Name}");                
             }
 
              Console.WriteLine($"{countries.Count} Countries");
